@@ -23,3 +23,7 @@ Below is the table of the validated curve temps for specific colors.
 
 ### External color/temperature references
 ![image](https://github.com/user-attachments/assets/37454b16-c11e-43bc-b734-f0cdc38b481a)
+
+## Replacement parts
+
+
