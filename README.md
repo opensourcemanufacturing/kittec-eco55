@@ -11,9 +11,9 @@ PhotoAlbum: [Google Photos Album](https://photos.app.goo.gl/oatt2EmMtDsDjP2o6)
 
 ### Stainless Steel 316 temper colors (tested)
 
-|            | T0 | c/h | tmp1 / t1 | c/h | tmp2 / t2 | c/h |
-|:---        |:---:|:---:|:---:|:---:|:---:|:---:|
-|Bronze like | 0  | 700 | 300 / 15  | 700 | 460 / 45  | 700 |
+|                      | T0 | c/h | tmp1 / t1 | c/h | tmp2 / t2 | c/h |
+|:---                  |:---:|:---:|:---:|:---:|:---:|:---:|
+|Bronze like (260º)    | 0  | 700 | 300 / 15  | 700 | 460 / 45  | 700 |
 
 ![image](https://github.com/user-attachments/assets/ab1f27eb-4f0e-4b40-a2e1-f6bdf6b8db37)
 
