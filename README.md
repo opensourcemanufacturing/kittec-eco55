@@ -11,8 +11,9 @@ PhotoAlbum: [Google Photos Album](https://photos.app.goo.gl/oatt2EmMtDsDjP2o6)
 
 ### Stainless Steel 316 temper colors (tested)
 
-Below is the table of the validated curve temps for specific colors.
 During the testing, I used a large mass and a smaller one to see if the metal mass would influence the color achieved and the short results shown that with the tested curve the color difference betweeen objects was not noticible, meaning that in theory we can use small test stripts to validate future curves.
+
+Below is the table of the validated curve temps for specific colors.
 
 |                      | T0 | c/h | tmp1 / t1 | c/h | tmp2 / t2 | c/h |
 |:---                  |:---:|:---:|:---:|:---:|:---:|:---:|
