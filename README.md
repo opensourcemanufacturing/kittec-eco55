@@ -7,6 +7,8 @@ PhotoAlbum: [Google Photos Album](https://photos.app.goo.gl/oatt2EmMtDsDjP2o6)
 - [Youtbe Playlist](https://www.youtube.com/watch?v=xoc6Wg6GqKU&list=PLEvmlp-nq1Q4yKHdWhCgacgY_uAayaDIU)
 - [KILN controller user manual (Kudos Kittec)](https://github.com/opensourcemanufacturing/kittec-eco55/blob/main/BedienungsanleitungTC405englisch.pdf)
 
+## Repair parts
+- (https://shop.keramik.at/en/c/ola1-1977/Brennofen-ECO-55-(de).html)
 
 ## Color tempering tests
 
