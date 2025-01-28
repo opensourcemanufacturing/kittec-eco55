@@ -7,7 +7,7 @@ PhotoAlbum: [Google Photos Album](https://photos.app.goo.gl/oatt2EmMtDsDjP2o6)
 - [Youtbe Playlist](https://www.youtube.com/watch?v=xoc6Wg6GqKU&list=PLEvmlp-nq1Q4yKHdWhCgacgY_uAayaDIU)
 - [KILN controller user manual (Kudos Kittec)](https://github.com/opensourcemanufacturing/kittec-eco55/blob/main/BedienungsanleitungTC405englisch.pdf)
 
-## Repair parts
+## Replacement parts
 - (https://shop.keramik.at/en/c/ola1-1977/Brennofen-ECO-55-(de).html)
 
 ## Color tempering tests
@@ -26,8 +26,6 @@ Below is the table of the validated curve temps for specific colors.
 
 ### External color/temperature references
 ![image](https://github.com/user-attachments/assets/37454b16-c11e-43bc-b734-f0cdc38b481a)
-
-## Replacement parts
 
 ## How to use the controller (By ChatGPT)
 
