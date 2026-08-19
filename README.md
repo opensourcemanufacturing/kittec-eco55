@@ -11,7 +11,8 @@ Max Temperature: 1300°C
 Connected Load / Power: ~3.5 kW to 3.6 kW
 Voltage: 230 V (1/N)
 Current: ~15 A – 16 A
-Heating Elements: Positioned in grooves along the sides (set consists of 3 specific coil elements for older builds up to Dec 2001)
+Heating Elements: Positioned in grooves along the sides
+(set consists of 3 specific coil elements for older builds up to Dec 2001)
 
 ```
 
