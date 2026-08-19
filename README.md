@@ -3,7 +3,8 @@ Discount Thor Kiln kittec eco 55 - 1300°c
 
 ```
 
-The Kittec ECO 55 is an older economic electric top-loading kiln from the Studio-Line series, featuring a ~60-liter volume, a maximum temperature of 1300°C, and a 230V single-phase power connection.
+The Kittec ECO 55 is an older economic electric top-loading kiln from the Studio-Line series,
+featuring a ~60-liter volume, a maximum temperature of 1300°C, and a 230V single-phase power connection.
 Type: Electric top-loader (round, single-piece body)
 Volume: Approx. 60 litres
 Max Temperature: 1300°C
